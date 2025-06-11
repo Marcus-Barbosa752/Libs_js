@@ -1,0 +1,1 @@
+Somente libs para javascript
